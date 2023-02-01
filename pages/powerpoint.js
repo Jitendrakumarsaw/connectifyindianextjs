@@ -17,7 +17,7 @@ import { FaTimes} from "react-icons/fa";
 import classNames from 'classnames';
 
 
-const powerpoint = () => {
+const Powerpoint = () => {
     const [showDashBoard,setShowDashBoard]=useState(false)
     const showDash=classNames('md:hidden lg:hidden cursor-pointer')
    
@@ -109,4 +109,4 @@ const powerpoint = () => {
     )
 }
 
-export default powerpoint
+export default Powerpoint

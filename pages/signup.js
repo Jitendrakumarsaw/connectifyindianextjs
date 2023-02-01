@@ -1,7 +1,7 @@
 import React from 'react'
 import {useForm} from 'react-hook-form'
 
-const signup = () => {
+const Signup = () => {
     const { register, handleSubmit,formState: { errors } } = useForm();
     const onFormSubmit=(data)=>{
         // e.PreventDefault()
@@ -91,4 +91,4 @@ const signup = () => {
     )
 }
 
-export default signup
+export default Signup

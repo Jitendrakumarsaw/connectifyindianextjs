@@ -17,7 +17,7 @@ import { FaTimes} from "react-icons/fa";
 import classNames from 'classnames';
 
 
-const pdf = () => {
+const Pdf = () => {
     const [showDashBoard,setShowDashBoard]=useState(false)
     const showDash=classNames('md:hidden lg:hidden cursor-pointer')
    
@@ -109,4 +109,4 @@ const pdf = () => {
     )
 }
 
-export default pdf
+export default Pdf

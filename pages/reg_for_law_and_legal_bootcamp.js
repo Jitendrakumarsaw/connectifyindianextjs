@@ -8,7 +8,7 @@ const reg_for_law_and_legal_bootcamp = () => {
                     <div className='flex md:flex-row lg:flex-row flex-col justify-center items-center gap-5'>
                         <div className='md:w-1/2 lg:w-1/2 w-full '>
                             <div className='flex flex-col gap-6 my-20'>
-                                <div className='text-red-600 text-xl font-semibold'>Let's Work Together</div>
+                                <div className='text-red-600 text-xl font-semibold'>Lets Work Together</div>
                                 <div className='text-white text-5xl font-bold'>Get a Free Project estimate</div>
                                 <div className='text-slate-400'>Get a personalized,custom-based, and intunitive estimation that seamlessly offers high-quality services within your financial capacity.</div>
                             </div>
@@ -45,7 +45,7 @@ const reg_for_law_and_legal_bootcamp = () => {
                             </div>
                         </div>
                         <div className='bg-white px-20 py-6 md:w-1/2 lg:w-1/2 w-full rounded-3xl'>
-                            <h1 className='text-4xl font-bold'>Let's talk from Hiring Developers</h1>
+                            <h1 className='text-4xl font-bold'>Lets talk from Hiring Developers</h1>
                             <form action="">
                                 <div className='mb-4'>
                                     <label className='mb-3 font-bold' htmlFor="email">Email<span className='text-red-600'>*</span></label>

@@ -17,7 +17,7 @@ import { FaTimes} from "react-icons/fa";
 import classNames from 'classnames';
 
 
-const excell = () => {
+const Excell = () => {
     const [showDashBoard,setShowDashBoard]=useState(false)
     const showDash=classNames('md:hidden lg:hidden cursor-pointer')
    
@@ -109,4 +109,4 @@ const excell = () => {
     )
 }
 
-export default excell
+export default Excell

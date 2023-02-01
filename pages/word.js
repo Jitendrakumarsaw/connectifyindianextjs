@@ -17,7 +17,7 @@ import { FaTimes} from "react-icons/fa";
 import classNames from 'classnames';
 
 
-const word = () => {
+const Word = () => {
     const [showDashBoard,setShowDashBoard]=useState(false)
     const showDash=classNames('md:hidden lg:hidden cursor-pointer')
    
@@ -109,4 +109,4 @@ const word = () => {
     )
 }
 
-export default word
+export default Word

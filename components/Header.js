@@ -5,7 +5,7 @@ import { FaTimes } from 'react-icons/fa';
 import SideBar from './Sidebar';
 
 
-const header = () => {
+const Header = () => {
     const [showSidebar, setShowSidebar] = useState(false)
     const showSidebarIcon = () => {
         setShowSidebar((prev) => !prev)
@@ -121,4 +121,4 @@ const header = () => {
     )
 }
 
-export default header
+export default Header

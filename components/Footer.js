@@ -35,7 +35,7 @@ const footer = () => {
                             </nav>
                         </div>
                         <div className='flex flex-col gap-3 md:gap-5'>
-                            <div>Seller's Corner</div>
+                            <div>Sellers Corner</div>
                             <nav className='list-none flex flex-col gap-2'>
                                 <li className='hover:underline'>About Us</li>
                                 <li className='hover:underline'>Membership</li>
@@ -47,7 +47,7 @@ const footer = () => {
                             </nav>
                         </div>
                         <div className='flex flex-col gap-3 md:gap-5'>
-                            <div>Buyer's Corner</div>
+                            <div>Buyers Corner</div>
                             <nav className='list-none flex flex-col gap-2'>
                                 <li className='hover:underline'>About Us</li>
                                 <li className='hover:underline'>Membership</li>
